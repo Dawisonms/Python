@@ -1,0 +1,33 @@
+print('##### Calculadora Python #######')
+print('')
+print('Selecione a opção desejada')
+print('')
+print('1 - Soma')
+print('2 - Subtração')
+print('3 - Divisão')
+print('4 - Multiplicação')
+print('')
+opção = int(input ('Digite a opção desejada 1/2/3/4:' ))
+print('')
+if opção == 1:
+  som1 = int(input ('primeiro número:' )) 
+  som2 = int(input ('segundo número: ' ))
+  print('')
+  print(som1+som2)
+elif opção == 2:
+  sub1 = int(input ('primeiro número:' ))
+  sub2 = int(input ('segundo número: ' ))
+  print('')
+  print(sub1-sub2)
+elif opção == 3:
+  div1 = float(input ('primeiro número:' ))
+  div2 = float(input ('segundo número: ' ))
+  print('')
+  print(div1/div2)
+elif opção == 4:
+  mult1 = int(input ('primeiro número:' ))
+  mult2 = int(input ('segundo número: ' ))
+  print('')
+  print(mult1*mult2)
+else:
+  print('Opção inválida')

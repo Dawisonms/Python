@@ -1,0 +1,43 @@
+1;BARCO;Tipo de Veiculo
+2;NOTEBOOK;Informática
+3;COPO;Cozinha
+4;TELEVISÃO;Eletrodoméstico
+5;CAMA;Quarto
+6;SOFÁ;Sala
+7;MESA;Sala ou Cozinha
+8;CADEIRA;Sala ou Cozinha
+9;ARMÁRIO;Cozinha
+10;GUARDA ROUPA;Quarto
+11;CADERNO;Escola
+12;TECLADO;Informatica
+13;IMPRESSORA;Informática
+14;PORTA;Casa
+15;PLANTAS;Decoração
+16;QUADRO;Decoração
+17;CANECA;Cozinha
+18;MOUSE;Informática
+19;LAPIS;Papelaria
+20;BORRACHA;Usualmente em papelaria
+21;VESTIDO;Tipo de roupa
+22;IMPRESSORA;Informatica
+23;LIVRO;Estudo/ Papelaria
+24;POSTE;Tem na rua
+25;JANELA;Casa
+26;CANETA;Papelaria
+27;AZULEIJO;Casa
+28;BICICLETA;Veiculo
+29;CARRO;Veiculo
+30;AVIÃO;Tipo de veículo
+31;HELICOPTERO;Tipo de veiculo
+32;PATINS;Pratica de esportes
+33;SKATE;Pratica de esportes
+34;RAQUETE;Pratica de esportes
+35;BOLA;Pratica de esporte
+36;FUTEBOL;Pratica de esporte
+37;VOLEIBOL;Pratica de esporte
+38;CORRIDA;Pratica de esporte
+39;BATEDEIRA;Eletrodomestico
+40;LIQUIDIFICADOR;Eletrodomestico
+41;GELADEIRA;Eletrodomestico
+42;FOGÃO;Eletrodomestico
+43;CELULAR;Informática
